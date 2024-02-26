@@ -1,10 +1,10 @@
 {
-  "label": "spring",
-  "position": 1,
+  "label": "프로그래머스",
+  "position": 2,
   "collapsible": true,
   "collapsed": true,
   "link": {
     "type": "generated-index",
-    "description": "하이용"
+    "description": "spring."
   }
 }
