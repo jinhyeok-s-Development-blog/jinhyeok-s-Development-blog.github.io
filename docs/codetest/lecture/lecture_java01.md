@@ -52,16 +52,17 @@ sidebar_position: 1
 그렇다면 입력은 Scanner로 문자열과 문자 하나로 받으면 된다.
 
 ```java
-    class Main {
-        public static int solution(String str, char c){
+class Main
+{
+    public static int solution(String str, char c)
+    {
+    }
 
-
-        }
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
         Scanner in=new Scanner(System.in);
         String str = in.next();
         char c = in.next();
-
 
         System.out.print(solution(str, c));
         return ;
@@ -82,16 +83,16 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
 따라서 두 번째로 입력한 문자열에서 문자 하나만 받으면 된다. (어차피 문자하나만 입력되므로 charAt(0)를 사용하면 해결된다.)
 
 ```java
-    class Main {
-        public static int solution(String str, char c){
+class Main {
+    public static int solution(String str, char c)
+    {
+    }
 
-
-        }
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
         Scanner in=new Scanner(System.in);
         String str = in.next();
         char c = in.next().charAt(0);
-
 
         System.out.print(solution(str, c));
         return ;
@@ -107,21 +108,24 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
 나의 경우에는 대문자로 처리하였다.
 
 ```java
-  class Main {
-        public static int solution(String str, char c){
-            int answer = 0;
+class Main
+  {
+    public static int solution(String str, char c)
+    {
+        int answer = 0;
 
-            str = str.toUpperCase();
-            c = Character.toUpperCase(c);
+        str = str.toUpperCase();
+        c = Character.toUpperCase(c);
 
-            /*잘나오는지 출력해서 확인해보자.
-            /System.out.println(str);
-            System.out.println(c);
-            */
+        /*잘나오는지 출력해서 확인해보자.
+        /System.out.println(str);
+        System.out.println(c);
+        */
 
 
-        }
-    public static void main(String[] args){
+    }
+    public static void main(String[] args)
+    {
         Scanner in=new Scanner(System.in);
         String str = in.next();
         char c = in.next().charAt(0);
@@ -139,16 +143,13 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
 나의 경우에는 바로 'for문에서 특정문자(c) == 문자열(str)'를 생각했다.
 
 ```java
-  class Main {
-        public static int solution(String str, char c){
+class Main {
+    public static int solution(String str, char c)
+        {
             int answer = 0;
 
             str = str.toUpperCase();
             c = Character.toUpperCase(c);
-
-
-            System.out.println(str);
-            System.out.println(c);
 
             for (int i =0; i < str.length(); i++)
             {
@@ -160,7 +161,8 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
             return answer;
 
         }
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
         Scanner in=new Scanner(System.in);
         String str = in.next();
         char c = in.next().charAt(0);
@@ -176,16 +178,13 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
 ## 코드 전문
 
 ```java
-  class Main {
-        public static int solution(String str, char c){
+class Main {
+    public static int solution(String str, char c)
+    {
             int answer = 0;
 
             str = str.toUpperCase();
             c = Character.toUpperCase(c);
-
-
-            System.out.println(str);
-            System.out.println(c);
 
             for (int i =0; i < str.length(); i++)
             {
@@ -195,13 +194,12 @@ next를 구글링을 해보면 입력한 값을 "문자열"로 받는다는 것�
                 }
             }
             return answer;
-
         }
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
         Scanner in=new Scanner(System.in);
         String str = in.next();
         char c = in.next().charAt(0);
-
 
         System.out.print(solution(str, c));
         return ;
@@ -240,6 +238,11 @@ for문과 for each문에 대한 비교
 - 성능 측면  
   for : charAt()를 사용하여 직접 문자에 접근하기 때문에 추가적인 메모리 할당이 X  
   for each : toCharArry() 호출로 인해 새로운 배열을 생성하므로 추가적인 메모리가 할당된다.
+
+  ![문자찾기 2](..\img\문자찾기2.png)  
+  [위 : for문, 아래: for each문]  
+  채점 사이트에서 두 문제의 속도를 비교해보니 for문이 약간 더 빨랐다.
+
 - 가독성 측면  
   for each 의 경우가 조금 더 간결하고 가독성이 좋은 경우가 많다.
 
@@ -254,4 +257,5 @@ for문과 for each문에 대한 비교
   | **성능** | 직접 제어에 따라 최적화 가능 | 약간의 성능 오버헤드가 있을 수 있음 |
   | **수정 제한** | 가능 | 순회 중 컬렉션 수정 시 오류 가능 |
 
-위의 근거로 나는 단순한 순차반복에는 for each문을 반복에 제약이 필요한 경우 for문을 쓰겠다.
+위의 근거로 for문을 먼저 사용하겠지만  
+for each문을 사용할 수 있는 상황이라면 for each문도 사용해볼 수 있는 옵션 정도로 생각할 것 같다.
