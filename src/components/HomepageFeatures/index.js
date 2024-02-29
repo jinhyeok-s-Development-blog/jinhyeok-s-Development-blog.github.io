@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        국립금오공과대학교에 18년도에 입학하였고, <br></br> 군대와 2년의 휴학을
-        거쳐서 현재 2024년 기준 3학년에 재학중입니다.
+        18년도 대학에 입학하였고, <br></br> 군대와 2년의 휴학을 거쳐서 현재
+        2024년 기준 3학년에 재학중입니다.
       </>
     ),
   },
