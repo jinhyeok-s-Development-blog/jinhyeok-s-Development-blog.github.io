@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjinhyeok_s_development_blog=self.webpackChunkjinhyeok_s_development_blog||[]).push([[4687],{3620:e=>{e.exports=JSON.parse('{"title":"java","description":"java","slug":"/category/java","permalink":"/docs/category/java","navigation":{"next":{"title":"fe01","permalink":"/docs/lang/java/java01"}}}')}}]);
