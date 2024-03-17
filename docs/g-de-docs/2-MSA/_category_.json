@@ -1,0 +1,10 @@
+{
+  "label": "MSA",
+  "position": 1,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "MicroService Architecture 대해 0부터 알아가기"
+  }
+}
