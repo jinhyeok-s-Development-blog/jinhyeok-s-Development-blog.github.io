@@ -77,21 +77,15 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Tutorial",
-          },
-          {
-            type: "docSidebar",
             sidebarId: "begroup",
             position: "left",
             label: "BE",
           },
           {
             type: "docSidebar",
-            sidebarId: "fegroup",
+            sidebarId: "degroup",
             position: "left",
-            label: "FE",
+            label: "DE",
           },
           {
             type: "docSidebar",
