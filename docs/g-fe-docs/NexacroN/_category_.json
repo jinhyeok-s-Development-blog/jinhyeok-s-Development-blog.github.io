@@ -1,10 +1,10 @@
 {
-    "label": "spring",
-    "position": 2,
+    "label": "MSA",
+    "position": 5,
     "collapsible": true,
     "collapsed": true,
     "link": {
         "type": "generated-index",
-        "description": "하이용"
+        "description": "처음부터 시작하는 MSA"
     }
 }
