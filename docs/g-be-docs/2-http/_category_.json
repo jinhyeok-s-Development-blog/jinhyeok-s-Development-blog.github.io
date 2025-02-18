@@ -1,0 +1,10 @@
+{
+    "label": "HTTP",
+    "position": 2,
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+        "type": "generated-index",
+        "description": "jscode(김재성)님의 도커강의를 듣고 정리한 내용입니다. 피드백 및 문의는 whwlsgur1419@naver.com으로 부탁드립니다. 감사합니다."
+    }
+}
