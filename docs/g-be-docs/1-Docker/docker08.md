@@ -2,7 +2,13 @@
 siderbar_position: 8
 ---
 
-# Image파일 직접 만들기
+# 7. Docker Compose
+
+---
+
+## siderbar_position: 5
+
+# 8. Image파일 직접 만들기
 
 ## 기술 블로그를 작성하는 이유
 

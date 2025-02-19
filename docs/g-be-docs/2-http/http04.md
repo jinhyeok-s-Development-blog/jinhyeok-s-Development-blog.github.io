@@ -1,8 +1,8 @@
 ---
-siderbar_position: 1
+siderbar_position: 4
 ---
 
-# 0. 들어가기 전에...
+# 3. TCP와 UDP
 
 ## 기술 블로그를 작성하는 이유
 

@@ -2,7 +2,7 @@
 siderbar_position: 7
 ---
 
-# Docker volume - 데이터 유실 방지
+# 6. Image파일 직접 만들기
 
 ## 기술 블로그를 작성하는 이유
 

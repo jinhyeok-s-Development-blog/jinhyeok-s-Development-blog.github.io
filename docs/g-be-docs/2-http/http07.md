@@ -1,14 +1,8 @@
 ---
-siderbar_position: 9
+siderbar_position: 7
 ---
 
-# Docker Compose
-
----
-
-## siderbar_position: 5
-
-# Image파일 직접 만들기
+# 6. URL
 
 ## 기술 블로그를 작성하는 이유
 
@@ -29,4 +23,4 @@ siderbar_position: 9
    2학년 때, **SQLD 자격증 실습 환경을 구축하기 위해 Docker를 사용하여 컨테이너를 직접 구축했던 경험**이 있다.\
    하지만, 아직 Docker를 능숙하게 다룬다고 할 수는 없기에 이번 기회를 통해 **Docker를 깊이 공부하고, 각 회사에서 이 기술을 왜 사용하는지에 대한 궁금증을 해결해보고 싶다.**
 
-> 참고한 [도커 강의](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-docker-%EC%9E%85%EB%AC%B8-%EC%8B%A4%EC%A0%84)
+> 참고한 [http 강의](https://inf.run/AMxiF)

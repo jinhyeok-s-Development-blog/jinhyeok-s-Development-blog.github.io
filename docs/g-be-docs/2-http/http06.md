@@ -1,8 +1,8 @@
 ---
-siderbar_position: 1
+siderbar_position: 6
 ---
 
-# 0. 들어가기 전에...
+# 5. DNS
 
 ## 기술 블로그를 작성하는 이유
 
