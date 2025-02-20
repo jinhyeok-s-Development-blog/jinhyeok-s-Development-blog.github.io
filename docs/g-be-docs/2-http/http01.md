@@ -4,15 +4,6 @@ siderbar_position: 1
 
 # 0. 들어가기 전에...
 
--   목차
-
-    -   [컨테이너(Container)](#컨테이너container)
-    -   [이미지(Image)](#이미지image)
-    -   [Container, Image 흐름](#container-와-image-흐름도)
-    -   [정리](#정리)
-
----
-
 ## 기술 블로그를 작성하는 이유
 
 어떤 기술을 사용할 때는 **그 기술이 사용되는 이유와 작동 원리를 깊이 이해하는 것이 중요하다고 생각한다.**  

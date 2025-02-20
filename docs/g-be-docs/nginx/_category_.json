@@ -1,0 +1,10 @@
+{
+    "label": "nginx",
+    "position": 6,
+    "collapsible": true,
+    "collapsed": false,
+    "link": {
+        "type": "generated-index",
+        "description": "nginx"
+    }
+}
