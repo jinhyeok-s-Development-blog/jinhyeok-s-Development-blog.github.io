@@ -54,15 +54,21 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[정신없는 요즘]]></title>
-        <id>https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</id>
-        <link href="https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)"/>
+        <id>https://jinhyeok-s-development-blog.github.io/blog/첫포스팅</id>
+        <link href="https://jinhyeok-s-development-blog.github.io/blog/첫포스팅"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[한국전력기술 현장실습을 끝마치고 현재는 정보처리기사와 빅데이터분석기사, sqlp, 토익스피킹, aws 자격증(saa) 공부를 하고있다.]]></summary>
+        <content type="html"><![CDATA[<p>한국전력기술 현장실습을 끝마치고 현재는 정보처리기사와 빅데이터분석기사, sqlp, 토익스피킹, aws 자격증(saa) 공부를 하고있다.
+또한 열정은 있지만 사람은 모으기 힘든 대학생들을 위한 프로젝트(모임 관련된 사이트)를 구상 중이며 여러 개발방식 중 sdlc방식으로 개발을 해보려고 한다.
+개발과 운영을 동시에 경험해볼 수 있어서 피드백 반영도 잘될 것 같고 좋은 경험이 될 것 같다.</p>]]></content>
         <author>
             <name>ChoJinHyeok</name>
             <uri>https://github.com/wonderfulrosemari</uri>
         </author>
         <category label="정보처리기사" term="정보처리기사"/>
         <category label="빅데이터분석기사" term="빅데이터분석기사"/>
+        <category label="aws-saa-co3" term="aws-saa-co3"/>
+        <category label="sqlp" term="sqlp"/>
+        <category label="토익스피킹" term="토익스피킹"/>
     </entry>
 </feed>
