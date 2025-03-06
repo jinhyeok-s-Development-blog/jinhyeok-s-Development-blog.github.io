@@ -1,12 +1,12 @@
 ---
-slug: 2025-03-06
+slug: 첫포스팅
 title: 정신없는 요즘
 authors:
     name: ChoJinHyeok
     title: 백엔드 개발(서버, 데이터)
     url: https://github.com/wonderfulrosemari
     image_url: https://github.com/wonderfulrosemari
-tags: [정보처리기사, 빅데이터분석기사]
+tags: [정보처리기사, 빅데이터분석기사, aws-saa-co3, sqlp, 토익스피킹]
 ---
 
 한국전력기술 현장실습을 끝마치고 현재는 정보처리기사와 빅데이터분석기사, sqlp, 토익스피킹, aws 자격증(saa) 공부를 하고있다.
