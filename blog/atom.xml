@@ -53,17 +53,16 @@
         <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://jinhyeok-s-development-blog.github.io/blog/first-blog-post</id>
-        <link href="https://jinhyeok-s-development-blog.github.io/blog/first-blog-post"/>
+        <title type="html"><![CDATA[정신없는 요즘]]></title>
+        <id>https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</id>
+        <link href="https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[한국전력기술 현장실습을 끝마치고 현재는 정보처리기사와 빅데이터분석기사, sqlp, 토익스피킹, aws 자격증(saa) 공부를 하고있다.]]></summary>
         <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>ChoJinHyeok</name>
+            <uri>https://github.com/wonderfulrosemari</uri>
         </author>
-        <category label="hola" term="hola"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="정보처리기사" term="정보처리기사"/>
+        <category label="빅데이터분석기사" term="빅데이터분석기사"/>
     </entry>
 </feed>

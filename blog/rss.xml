@@ -46,14 +46,13 @@
             <category>docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://jinhyeok-s-development-blog.github.io/blog/first-blog-post</link>
-            <guid>https://jinhyeok-s-development-blog.github.io/blog/first-blog-post</guid>
+            <title><![CDATA[정신없는 요즘]]></title>
+            <link>https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</link>
+            <guid>https://jinhyeok-s-development-blog.github.io/blog/Thu Mar 06 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>hola</category>
-            <category>docusaurus</category>
+            <description><![CDATA[한국전력기술 현장실습을 끝마치고 현재는 정보처리기사와 빅데이터분석기사, sqlp, 토익스피킹, aws 자격증(saa) 공부를 하고있다.]]></description>
+            <category>정보처리기사</category>
+            <category>빅데이터분석기사</category>
         </item>
     </channel>
 </rss>
